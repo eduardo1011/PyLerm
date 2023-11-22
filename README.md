@@ -1,5 +1,7 @@
 # PyLerm
-Curso de Python
+Curso
+
+## Análisis de datos e información biológica con Python
 
 ### Temario
 
@@ -16,3 +18,6 @@ python -mpip install notebook
 cmd
 jupyter notebook
 ```
+### Clases grabadas 
+
+#### [Clase 2: 22-11-2023](https://1drv.ms/v/s!ArGs92xOZGDEkkf1DeY1avHQecz2?e=7okcKK)
