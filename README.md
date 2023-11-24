@@ -9,4 +9,6 @@ Curso
 
 ### Clases grabadas
 
+Contraseña: `pylerm2023`
+
 #### [Clase 2: 22-11-2023](https://1drv.ms/v/s!ArGs92xOZGDEkkf1DeY1avHQecz2?e=7okcKK)
