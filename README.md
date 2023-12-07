@@ -33,7 +33,7 @@ Contraseña: `pylerm2023`
 #### **La hora y fecha límite para entregar: hasta las 11:00 PM del 12 de diciembre de 2023.**
 
 #### Aplicación de conocimientos:  
-* Creación de listas.
+* Creación y manejo de listas.
 * Búsqueda de patrones en listas.
 * Uso de bucle `for`.
 * Uso de condicionales.
