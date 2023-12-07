@@ -40,6 +40,8 @@ Contraseña: `pylerm2023`
 * Uso de operadores booleanos.
 * Uso de texto enriquecido (Markdown).
 
+#### Se evaluará la organización del notebook y las salidas que respondan a cada una de las preguntas de la tarea.
+
 **Nota: para resolver estos ejercicios toma en cuenta lo que se ha visto hasta la clase 4.**
 
 A patir de la lista de organismos disponibles en la base de datos [KEGG](https://www.kegg.jp/kegg/catalog/org_list.html):
@@ -52,9 +54,9 @@ A patir de la lista de organismos disponibles en la base de datos [KEGG](https:/
 
 A partir de la información contenida en la siguiente URL (https://rest.kegg.jp/list/T00007):
 
-1. Cuántas filas contienen la etiqueta ncRNA (non-coding RNA).
-2. Cuántas filas contienen la etiqueta tRNA (transfer RNA).
-3. Cuántas filas contienen la etiqueta CDS (coding sequence).
+6. Cuántas filas contienen la etiqueta ncRNA (non-coding RNA).
+7. Cuántas filas contienen la etiqueta tRNA (transfer RNA).
+8. Cuántas filas contienen la etiqueta CDS (coding sequence).
 
 >---------------------
 >---------------------
