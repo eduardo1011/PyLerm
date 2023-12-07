@@ -35,13 +35,13 @@ Contraseña: `pylerm2023`
 #### **Cargarla en la siguiente liga: https://forms.gle/L8n8fC5ERK2sDLQ49**
 #### **La hora y fecha límite para entregar: hasta las 11:00 PM del 12 de diciembre de 2023.**
 
-#### Aplica de conocimientos:  
-* creación de listas
-* búsqueda de patrones en listas
-* uso de bucle for
-* uso de condicionales
-* uso de operadores booleanos
-* uso de texto enriquecido (Markdown)
+#### Aplicación de conocimientos:  
+* Creación de listas.
+* Búsqueda de patrones en listas.
+* Uso de bucle `for`.
+* Uso de condicionales.
+* Uso de operadores booleanos.
+* Uso de texto enriquecido (Markdown).
 
 **Nota: para resolver estos ejercicios toma en cuenta lo que se vio en la clase 4.**
 
