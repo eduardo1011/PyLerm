@@ -21,22 +21,29 @@ Contraseña: `pylerm2023`
 
 
 
-## Tarea 1
+## Tarea 1 (06 de diciemnre de 2023)
 
-Aplica de conocimientos: creación de listas, busqueda de patrones en listas, uso de bucle for, uso de condicionales, uso de operadores booleanos.
+### **Entrega de tarea**
+#### **Desarrolla la tarea en un notebook**
+#### **Cargarla en la siguiente liga: https://forms.gle/L8n8fC5ERK2sDLQ49**
+#### **La hora y fecha límite para entregar la tarea es: hasta las 11:00 PM del 12 de diciembre de 2023.**
 
-Nota: para resolver estos ejercicios toma en cuenta lo que se vio en la clase 4.
+#### Aplica de conocimientos: creación de listas, búsqueda de patrones en listas, uso de bucle for, uso de condicionales, uso de operadores booleanos.
+
+**Nota: para resolver estos ejercicios toma en cuenta lo que se vio en la clase 4.**
 
 A patir de la lista de organismos disponibles en la base de datos KEGG:
 
-1. Cuántas y cúales especies corresponden al género Escherichia.
+1. Cuántas y cúales especies corresponden al género *Escherichia*.
 2. Cuántas corresponden a Escherichia coli.
-3. Qué otras especeies se encuentran además de E. coli.
-4. Cuántas y cúales especies corresponden al género Klebsiella.
-5. Cuántas corresponden a Klebsiella pneumonie.
+3. Qué otras especeies se encuentran además de *E. coli*.
+4. Cuántas y cúales especies corresponden al género *Klebsiella*.
+5. Cuántas corresponden a *Klebsiella pneumonie*.
 
 A partir de la información contenida en la siguiente URL (https://rest.kegg.jp/list/T00007):
 
 1. Cuántas filas contienen la etiqueta ncRNA (non-coding RNA).
 2. Cuántas filas contienen la etiqueta tRNA (transfer RNA).
 3. Cuántas filas contienen la etiqueta CDS (coding sequence).
+
+
