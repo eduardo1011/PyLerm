@@ -45,7 +45,6 @@ Contraseña: `pylerm2023`
 
 **Nota: para resolver estos ejercicios toma en cuenta lo que se vio en la clase 4.**
 
-```
 A patir de la lista de organismos disponibles en la base de datos KEGG:
 
 1. Cuántas y cúales especies corresponden al género *Escherichia*.
@@ -59,5 +58,4 @@ A partir de la información contenida en la siguiente URL (https://rest.kegg.jp/
 1. Cuántas filas contienen la etiqueta ncRNA (non-coding RNA).
 2. Cuántas filas contienen la etiqueta tRNA (transfer RNA).
 3. Cuántas filas contienen la etiqueta CDS (coding sequence).
-```
 
