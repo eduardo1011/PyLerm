@@ -40,7 +40,7 @@ Contraseña: `pylerm2023`
 * Uso de operadores booleanos.
 * Uso de texto enriquecido (Markdown).
 
-#### Se evaluará la organización del notebook y las salidas que respondan a cada una de las preguntas de la tarea.
+#### Se evaluará la organización del notebook y las salidas que respondan a cada una de las preguntas de la tarea (antes de enviar la tarea revisen que todos los comandos corran adecuadamente).
 
 **Nota: para resolver estos ejercicios toma en cuenta lo que se ha visto hasta la clase 4.**
 
