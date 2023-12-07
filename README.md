@@ -17,6 +17,10 @@ Contraseña: `pylerm2023`
 #### [Clase 3: 29-11-2023](https://1drv.ms/v/s!ArGs92xOZGDEkkg2yE70cSIR4UTk?e=yIqxPI)
 
 
+#### [Clase 4: 06-12-2023](https://1drv.ms/v/s!ArGs92xOZGDEkkmc0qeqEKrHupZ_?e=wGzzJG)
+
+
+
 
 >---------------------
 >---------------------
