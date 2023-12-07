@@ -35,7 +35,6 @@ Contraseña: `pylerm2023`
 #### **Cargar la tarea en la siguiente liga: https://forms.gle/L8n8fC5ERK2sDLQ49**
 #### **La hora y fecha límite para entregar: hasta las 11:00 PM del 12 de diciembre de 2023.**
 
-```
 #### Aplicación de conocimientos:  
 * Creación de listas.
 * Búsqueda de patrones en listas.
@@ -46,6 +45,7 @@ Contraseña: `pylerm2023`
 
 **Nota: para resolver estos ejercicios toma en cuenta lo que se vio en la clase 4.**
 
+```
 A patir de la lista de organismos disponibles en la base de datos KEGG:
 
 1. Cuántas y cúales especies corresponden al género *Escherichia*.
