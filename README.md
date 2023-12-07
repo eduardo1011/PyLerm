@@ -32,7 +32,7 @@ Contraseña: `pylerm2023`
 
 ### **Entrega de tarea.**
 #### **Desarrolla la tarea en un notebook.**
-#### **Cargarla en la siguiente liga: https://forms.gle/L8n8fC5ERK2sDLQ49**
+#### **Cargar la tarea en la siguiente liga: https://forms.gle/L8n8fC5ERK2sDLQ49**
 #### **La hora y fecha límite para entregar: hasta las 11:00 PM del 12 de diciembre de 2023.**
 
 #### Aplicación de conocimientos:  
