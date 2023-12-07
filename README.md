@@ -20,9 +20,6 @@ Contraseña: `pylerm2023`
 #### [Clase 4: 06-12-2023](https://1drv.ms/v/s!ArGs92xOZGDEkkmc0qeqEKrHupZ_?e=wGzzJG)
 
 
-
-
->---------------------
 >---------------------
 >---------------------
 
@@ -59,3 +56,5 @@ A partir de la información contenida en la siguiente URL (https://rest.kegg.jp/
 2. Cuántas filas contienen la etiqueta tRNA (transfer RNA).
 3. Cuántas filas contienen la etiqueta CDS (coding sequence).
 
+>---------------------
+>---------------------
