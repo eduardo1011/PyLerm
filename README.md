@@ -42,7 +42,7 @@ Contraseña: `pylerm2023`
 
 **Nota: para resolver estos ejercicios toma en cuenta lo que se ha visto hasta la clase 4.**
 
-A patir de la lista de organismos disponibles en la base de datos KEGG:
+A patir de la lista de organismos disponibles en la base de datos [KEGG](https://www.kegg.jp/kegg/catalog/org_list.html):
 
 1. Cuántas y cúales especies corresponden al género *Escherichia*.
 2. Cuántas corresponden a *Escherichia coli*.
