@@ -40,7 +40,7 @@ Contraseña: `pylerm2023`
 * Uso de operadores booleanos.
 * Uso de texto enriquecido (Markdown).
 
-**Nota: para resolver estos ejercicios toma en cuenta lo que se vio en la clase 4.**
+**Nota: para resolver estos ejercicios toma en cuenta lo que se ha visto hasta la clase 4.**
 
 A patir de la lista de organismos disponibles en la base de datos KEGG:
 
