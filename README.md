@@ -35,6 +35,7 @@ Contraseña: `pylerm2023`
 #### **Cargar la tarea en la siguiente liga: https://forms.gle/L8n8fC5ERK2sDLQ49**
 #### **La hora y fecha límite para entregar: hasta las 11:00 PM del 12 de diciembre de 2023.**
 
+```
 #### Aplicación de conocimientos:  
 * Creación de listas.
 * Búsqueda de patrones en listas.
@@ -58,5 +59,5 @@ A partir de la información contenida en la siguiente URL (https://rest.kegg.jp/
 1. Cuántas filas contienen la etiqueta ncRNA (non-coding RNA).
 2. Cuántas filas contienen la etiqueta tRNA (transfer RNA).
 3. Cuántas filas contienen la etiqueta CDS (coding sequence).
-
+```
 
