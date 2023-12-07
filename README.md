@@ -19,9 +19,13 @@ Contraseña: `pylerm2023`
 
 
 
+>---------------------
 
 
-## Tarea 1 (06 de diciemnre de 2023)
+## Tarea 1 
+
+(06 de diciemnre de 2023)
+
 
 ### **Entrega de tarea**
 #### **Desarrolla la tarea en un notebook**
