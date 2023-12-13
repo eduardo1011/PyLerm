@@ -48,7 +48,7 @@ A patir de la lista de organismos disponibles en la base de datos [KEGG](https:/
 
 1. Cuántas y cúales especies corresponden al género *Escherichia*.
 2. Cuántas corresponden a *Escherichia coli*.
-3. Qué otras especeies se encuentran además de *E. coli*.
+3. Qué otras especies se encuentran además de *E. coli*.
 4. Cuántas y cúales especies corresponden al género *Klebsiella*.
 5. Cuántas corresponden a *Klebsiella pneumonie*.
 
