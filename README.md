@@ -50,7 +50,7 @@ A patir de la lista de organismos disponibles en la base de datos [KEGG](https:/
 2. Cuántas corresponden a *Escherichia coli*.
 3. Qué otras especies se encuentran además de *E. coli*.
 4. Cuántas y cúales especies corresponden al género *Klebsiella*.
-5. Cuántas corresponden a *Klebsiella pneumonie*.
+5. Cuántas corresponden a *Klebsiella pneumoniae*.
 
 A partir de la información contenida en la siguiente URL (https://rest.kegg.jp/list/T00007):
 
