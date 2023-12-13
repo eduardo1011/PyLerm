@@ -60,3 +60,25 @@ A partir de la información contenida en la siguiente URL (https://rest.kegg.jp/
 
 >---------------------
 >---------------------
+
+
+
+sec = ['caagggatctatgatagaccac','tatgccctcgtctatacacctaggcgc','taagcgcatatctatcgcaaatccagtt',
+              'gtcttatgcctgtgtcaggatctacttcct','aaattagttttctgtgtttagagcacct','ggcctcacatgagtctacagacct',
+              'agtacccccatttgtcaagcg','ttaggggtatttacacagcccgcgtac','attggctcagaaccggagctatcaaggact',
+              'ttaccgtactcgcctca','ggtgaactccccctagtattgtgg','ttgctctggcggatttcttcaggc',
+              'ccagttataactcctgagtattct','gtcaatttgaatggggtttgac','tactccggtgtgatccattatggagat',
+              'acggtaaaacgatggacgttgtccca','ggcctcattctccttcccataa','gtacatggttctccccgcgatcat',
+              'ccatcgacaatgagctaaacctg','gctatgctgggtcctaccggcaacc','gcgtaactaatgagcatcctat',
+              'agagtaaaggtaatgggtggttat','ctaggtatcgactgtcgaataatccgtcc','catctgtatccc',
+              'cttgcccgtctacatggcctaggggca','tgctaaacggccacatcccaagaccctg','cccgaggcgacagttcatcgcccatgacg',
+              'acgcttgaccgtcagtgtaagtccg','gaatctcaaaacgcataatgccaata','aatgcgccagtgtaaaagtattgcggat',
+              'cgggagacaccttatgtcgcaagatct','ggaaccacatccataacacacgtctc','cacacactctttatcata',
+              'tacgcgtgct','cactttcgatag','gtgtggggttttggaacttcagaataga',
+              'gtggccagagcgcactatctagt','gccccccgattacgatacacgcctatgct','tcggtcacccatcacgtaaattggagtaat',
+              'gggttcgtcccccagttccctcttccc','ttgatggctaggtctgtcgatttaag','gtcttggctgtttccttggagtccgtc',
+              'aataggcgcgatgttgtgtgtcaat','acacgcaagccacgtcgtttgta','tacgtaggctgggctgtgcgattgcgtt',
+              'agcagtgggatttatagttattta','cgaaagcgaggccatcactggtgaa','gctatcatctggctacaaaaaatagacct',
+              'ttccccgtaggagaaccaagagaa','tagcgtgcgttctctactataaga']
+
+
