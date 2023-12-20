@@ -82,4 +82,17 @@ sec = ['caagggatctatgatagaccac','tatgccctcgtctatacacctaggcgc','taagcgcatatctatcg
               'agcagtgggatttatagttattta','cgaaagcgaggccatcactggtgaa','gctatcatctggctacaaaaaatagacct',
               'ttccccgtaggagaaccaagagaa','tagcgtgcgttctctactataaga']
 
+>---------------------
+>---------------------
+
+identificadores = ['tr|E0SC31|E0SC31_DICD3 Outer membrane exporter of proteases OS=Dickeya dadantii (strain 3937) OX=198628 GN=prtF PE=3 SV=1',
+'sp|P23598|PRTF_DICCH Proteases secretion protein PrtF OS=Dickeya chrysanthemi OX=556 GN=prtF PE=3 SV=1',
+'tr|A0A0A1HT80|A0A0A1HT80_9PSED ABC-type protease exporter, outer membrane component PrtF/AprF OS=Pseudomonas sp. SHC52 OX=984195 GN=BN844_0269 PE=3 SV=1',
+'tr|A0A0C2IEA9|A0A0C2IEA9_9PSED ABC-type protease exporter, outer membrane component PrtF/AprF OS=Pseudomonas batumici OX=226910 GN=UCMB321_2798 PE=3 SV=1',
+'tr|A0A0H3BX48|A0A0H3BX48_STRPZ Fibronectin binding protein OS=Streptococcus pyogenes serotype M49 (strain NZ131) OX=471876 GN=prtF PE=1 SV=1',
+'tr|A0A0P9LC31|A0A0P9LC31_PSEA0 ABC-type protease exporter, outer membrane component PrtF/AprF OS=Pseudomonas amygdali pv. ciccaronei OX=264452 GN=ALO78_01561 PE=3 SV=1',
+'tr|A0A0P9MT55|A0A0P9MT55_9PSED ABC-type protease exporter, outer membrane component PrtF/AprF OS=Pseudomonas caricapapayae OX=46678 GN=ALQ84_02418 PE=3 SV=1',
+'tr|A0A0P9Q2D9|A0A0P9Q2D9_9PSED ABC transporter, permease protein OS=Pseudomonas syringae pv. delphinii OX=192088 GN=ALQ08_100846 PE=3 SV=1',
+'tr|A0A0P9RGY3|A0A0P9RGY3_9PSED ABC-type protease exporter, outer membrane component PrtF/AprF OS=Pseudomonas ficuserectae OX=53410 GN=ALO69_100221 PE=3 SV=1',
+'tr|A0A0P9SV80|A0A0P9SV80_PSESG ABC transporter permease OS=Pseudomonas savastanoi pv. glycinea OX=318 GN=ALO37_01686 PE=3 SV=1'] 
 
