@@ -1,3 +1,30 @@
+
+# Examen Parcial 1
+
+### Para esta actividad se usará el archivo alojado en la siguiente URL> ```https://raw.githubusercontent.com/eduardo1011/PyLerm/main/problema.fasta```.
+
+### Para abrir el archivo fasta usa el siguiente comando, guarda la salida en una variable y con esta resuelves los ejercicios.
+```
+# con este comando abres el archivo fasta y da como salida un diccionario
+def open_file(file = ''):
+    fas = {}
+    with open(file) as fq:
+        for line in fq:
+            line = line.rstrip()
+            if '>' in line:
+                header = line
+                s = ''
+            else:
+                s += line
+            fas[header] =  s
+    return fas
+```
+```
+# con este comando defines la variable fasta y en ella guardas las secuencias
+fasta = open_file(file = 'problema.fasta')
+```
+
+
 #### 1. Cuántas secuencias tiene el archivo fasta.
 
 #### 2. El archivo fasta tiene una secuencia de nucleótidos.
