@@ -29,7 +29,7 @@ fasta = open_file(file = 'problema.fasta')
 ```
 
 
-#### 1. Cuántas secuencias tiene el archivo fasta.
+#### 1. Cuántas secuencias contiene el archivo problema.fasta.
 
 #### 2. El archivo fasta tiene una secuencia de nucleótidos.
    * Usando comandos (de qué manera lo resolverías) encuentra cuál es e imprime el identificador y la secuencia.
@@ -37,7 +37,11 @@ fasta = open_file(file = 'problema.fasta')
    
 #### 3. El archivo contiene secuencias de aminoácidos de 3 organismos diferentes, de qué organismos se trata.  
 
-#### 4. Para responder la siguiente actividad usa esta condición:  filtrar solo aquellos identificadores que dentro de su secuencia tengan la siguiente expresion regular: ```'C.{2,4}C.{3}[LIVMFYWC].{8}H.{3,5}H'```. Esta expresión regular corresponde a un dominio Zinc finger C2H2-type que se encuentra en proteínas de unión a ADN (https://prosite.expasy.org/PS00028).
+#### 4. Para responder la siguiente actividad usa esta condición:  filtrar solo aquellos identificadores que dentro de su secuencia tengan la siguiente expresion regular:
+```
+'C.{2,4}C.{3}[LIVMFYWC].{8}H.{3,5}H'
+```
+Esta expresión regular corresponde a un dominio Zinc finger C2H2-type que se encuentra en proteínas de unión a ADN (https://prosite.expasy.org/PS00028).
 
    > **4.1 Siguiendo el ejemplo de la figura 1 guarda en una lista la siguiente información:**  
    >> ▢ Identificador localizado entre los 2 pipe (como lo vimos en clase): ejemplo A0A364LTJ7  
