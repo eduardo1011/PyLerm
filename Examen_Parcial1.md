@@ -79,7 +79,7 @@ fasta = open_file(file = 'problema.fasta')
 
 
 #### 5. Usando la lista generada en el punto 4.1 crea un dataframe y resuelve las siguientes cuestiones:
-> ▤ Qué organismos presentan el dominio Zinc finger C2H2-type dentro de sus secuencias.  
-> ▤ De los organismos ¿cuál no presenta el dominio Zinc finger C2H2-type? argumenta tu respuesta.  
+>> ▤ Qué organismos presentan el dominio Zinc finger C2H2-type dentro de sus secuencias.  
+>> ▤ De los organismos ¿cuál no presenta el dominio Zinc finger C2H2-type? argumenta tu respuesta.  
 > ▤ A qué organismo/s pertenece la proteína llamada brlA (busca solo dentro del dataframe).   
 > ▤ Cuantifica el número de proteínas que contienen el dominio Zinc finger C2H2-type por cada organismo.  
