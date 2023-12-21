@@ -16,7 +16,7 @@
 * Uso de la función re y expresiones regulares.
 * Uso del módulo pandas y manejo de dataframes.
 
-#### Se evaluará la organización del notebook y las salidas que respondan a cada una de las preguntas de la tarea (antes de enviar la tarea revisen que todos los comandos corran adecuadamente).
+#### Se evaluará la organización del notebook y las salidas que respondan a cada una de las preguntas del examen (antes de enviarlo revisa que todos los comandos corran adecuadamente).
 
 **Nota: para resolver estos ejercicios toma en cuenta lo que se ha visto hasta la clase 6.**
 
