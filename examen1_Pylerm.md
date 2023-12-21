@@ -1,11 +1,14 @@
 
 # Examen Parcial 1
 
-### Para esta actividad se usará el archivo alojado en la siguiente URL> ```https://raw.githubusercontent.com/eduardo1011/PyLerm/main/problema.fasta```.
-
-### Para abrir el archivo fasta usa el siguiente comando, guarda la salida en una variable y con esta resuelves los ejercicios.
+### Para esta actividad se usará el archivo alojado en la siguiente URL:
 ```
-# con este comando abres el archivo fasta y da como salida un diccionario
+https://raw.githubusercontent.com/eduardo1011/PyLerm/main/problema.fasta
+```
+
+### Para abrir el archivo fasta usa el siguiente comando, guarda la salida en una variable y con esta resuelve los ejercicios.
+```
+# este comando abre el archivo fasta y devuelve un diccionario
 def open_file(file = ''):
     fas = {}
     with open(file) as fq:
@@ -19,8 +22,9 @@ def open_file(file = ''):
             fas[header] =  s
     return fas
 ```
+
 ```
-# con este comando defines la variable fasta y en ella guardas las secuencias
+# este comando define la variable fasta y en ella guarda todas las secuencias, y  con esta variable fasta ya puedes trabajar
 fasta = open_file(file = 'problema.fasta')
 ```
 
