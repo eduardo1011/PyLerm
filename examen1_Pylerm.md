@@ -21,8 +21,10 @@
 **Nota: para resolver estos ejercicios toma en cuenta lo que se ha visto hasta la clase 6.**
 
 
->-----------------------------------------------------------
->-----------------------------------------------------------
+>
+>---
+>---
+>
 
 ### Para esta actividad se usará el archivo alojado en la siguiente URL:
 ```
