@@ -69,7 +69,7 @@ fasta = open_file(file = 'problema.fasta')
 **Esta expresión regular corresponde a un dominio Zinc finger C2H2-type que se encuentra en proteínas de unión a ADN (https://prosite.expasy.org/PS00028).**
 
    > **4.1 Siguiendo el ejemplo de la [figura 1](https://raw.githubusercontent.com/eduardo1011/PyLerm/main/lista_para_dataframe.png) guarda en una lista la siguiente información:**  
-   >> ▢ Identificador localizado entre los 2 pipe (|): ejemplo A0A364LTJ7 (como lo vimos en clase).  
+   >> ▢ Identificador localizado entre los 2 pipe (```|```): ejemplo A0A364LTJ7 (como lo vimos en clase).  
    >> ▢ La longitud de la proteína.  
    >> ▢ El organismo (género y especie) al que pertenece la secuencia.  
    >> ▢ Número taxonómico.   
