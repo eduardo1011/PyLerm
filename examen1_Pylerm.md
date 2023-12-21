@@ -1,5 +1,28 @@
 
-# Examen Parcial 1
+# Examen Parcial 1 (21/12/2023)
+
+### **Entrega**
+#### **Desarrolla el examen en un notebook.**
+#### **Cargar el examen en la siguiente liga: **
+#### **La hora y fecha límite para entregar: hasta las 11:00 PM del 29 de diciembre de 2023.**
+
+#### Aplicación de conocimientos:  
+* Creación y manejo de listas.
+* Búsqueda de patrones en listas.
+* Uso de bucle `for`.
+* Uso de condicionales.
+* Uso de operadores booleanos.
+* Uso de texto enriquecido (Markdown).
+* Uso de la función re y expresiones regulares.
+* Uso del módulo pandas y manejo de dataframes.
+
+#### Se evaluará la organización del notebook y las salidas que respondan a cada una de las preguntas de la tarea (antes de enviar la tarea revisen que todos los comandos corran adecuadamente).
+
+**Nota: para resolver estos ejercicios toma en cuenta lo que se ha visto hasta la clase 6.**
+
+
+>-----------------------------------------------------------
+>-----------------------------------------------------------
 
 ### Para esta actividad se usará el archivo alojado en la siguiente URL:
 ```
