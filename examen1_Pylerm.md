@@ -3,7 +3,7 @@
 
 ### **Entrega**
 #### **Desarrolla el examen en un notebook.**
-#### **Cargar el examen en la siguiente liga: **
+#### **Cargar el examen en la siguiente liga: https://forms.gle/DQ4kARLatMFk7dPeA**
 #### **La hora y fecha límite para entregar: hasta las 11:00 PM del 29 de diciembre de 2023.**
 
 #### Aplicación de conocimientos:  
