@@ -9,7 +9,7 @@
 #### 4. Para responder la siguiente actividad usa esta condición:  filtrar solo aquellos identificadores que dentro de su secuencia tengan la siguiente expresion regular: <font color = red>'C.{2,4}C.{3}[LIVMFYWC].{8}H.{3,5}H'</font>. Esta expresión regular corresponde a un dominio Zinc finger C2H2-type que se encuentra en proteínas de unión a ADN (https://prosite.expasy.org/PS00028).
 
    > **4.1 Siguiendo el ejemplo de la figura 1 guarda en una lista la siguiente información:**  
-   >> ▢ Identificador localizado entre los 2 pipe (como lo vimos en clase): ejemplo A0A364LTJ7  
+   >> ▢ <font color = black>Identificador localizado entre los 2 pipe (como lo vimos en clase): ejemplo A0A364LTJ7</font>  
    >> ▢ La longitud de la proteína.  
    >> ▢ El organismo (género y especie) al que pertenece la secuencia.  
    >> ▢ Número taxonómico.   
