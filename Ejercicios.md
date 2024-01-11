@@ -2,11 +2,11 @@
 # Ejercicios de práctica: creación de funciones
 
 
-##Crear una función para conocer la longitud de una secuencia de ADN, ARN o PROTEÍNAS
+## Crear una función para conocer la longitud de una secuencia de ADN, ARN o PROTEÍNAS
 ### validar la función con varrias secuencias
 
-##Crear una función que convierta una secuencia de ADN en ARN.
+## Crear una función que convierta una secuencia de ADN en ARN.
 ### validar la función con varrias secuencias
 
-##Crear una función que devuelva el reverso complementario de una secuencia de ADN.
+## Crear una función que devuelva el reverso complementario de una secuencia de ADN.
 ### validar la función con varrias secuencias
