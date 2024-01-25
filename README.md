@@ -32,7 +32,7 @@ Contraseña: `pylerm2023`
 #### [Clase 8: 17-01-2024](https://1drv.ms/v/s!ArGs92xOZGDEkl-hHY9NTw_nu59R?e=JsOPTB)
 
 
-#### [Clase 9: 24-01-2024](https://1drv.ms/f/s!ArGs92xOZGDEkmD9GL-Sy9XZPmuL?e=HyW9d5)
+#### [Clase 9: 24-01-2024](https://1drv.ms/v/s!ArGs92xOZGDEkl7be9A_gc5DQMAB?e=18uryu)
 
 >---------------------
 >---------------------
